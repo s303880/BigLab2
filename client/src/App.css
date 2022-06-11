@@ -1,0 +1,60 @@
+
+#user-button {
+  font-size: larger;
+}
+
+.navbar {
+  background-color: #524eb7;
+}
+.navbartitle, .navbar-text {
+  font-weight: bold;
+  color: white !important;
+}
+
+#left-sidebar {
+  background-color:ghostwhite;
+  padding: 20px;
+}
+
+#main-content {
+  padding: 20px;
+}
+
+.heart-field {
+  color: red;
+}
+
+.rating-field {
+  color: gold;
+}
+
+.favorite-title {
+  color: red;
+}
+
+.actions-field {
+
+}
+
+.delete-link {
+  color:crimson;
+}
+.delete-link:hover, .delete-link:active {
+  color: rgb(172, 29, 58);
+}
+
+#add-button {
+  font-size: 40px;
+  font-weight: bold;
+  background-color: #0d6efd;
+  color: white;
+  filter: drop-shadow(3px 3px 3px rgb(129, 129, 129));
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  text-align: center;
+}
+#add-button svg {
+  margin-top: -10px;
+}
+
